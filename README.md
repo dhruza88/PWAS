@@ -44,3 +44,11 @@ install it, run it both online and offline
 [https://www.github.com/dhruza88](https://www.github.com/dhruza88) <br />
 davidhruza@gmail.com
 
+Heroku Deployed Link:
+
+https://dh-texteditor.herokuapp.com/
+
+Screenshot:
+
+![heroku-deployed-stable](https://user-images.githubusercontent.com/106774335/186560952-d4bfe976-88dc-4db4-934d-24c12a345d98.jpg)
+
